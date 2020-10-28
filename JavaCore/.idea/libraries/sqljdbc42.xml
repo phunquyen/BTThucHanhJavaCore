@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="sqljdbc42">
+    <CLASSES>
+      <root url="jar://D:/Tool/Microsoft JDBC Driver 6.0 for SQL Server/sqljdbc_6.0/enu/jre8/sqljdbc42.jar!/" />
+      <root url="jar://D:/Tool/MySQL/mysql-connector-java-8.0.22/mysql-connector-java-8.0.22/mysql-connector-java-8.0.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
